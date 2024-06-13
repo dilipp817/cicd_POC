@@ -1,7 +1,7 @@
 #
 # Build configuration for circle ci
 #
-machline:
+machine:
 
   java:
     version: oraclejdk8
